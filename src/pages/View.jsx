@@ -35,4 +35,4 @@ const View = () => {
     )
 }; 
 
- export default View;
+ export default View; 

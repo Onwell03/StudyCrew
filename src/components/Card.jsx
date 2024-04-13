@@ -31,4 +31,4 @@ const Card = ({crew}) => {
     )
 };
 
-export default Card;
+export default Card; 
